@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BT1</string>
+    <string name="placeholder">Nhập số nguyên dương n</string>
+    <string name="even">Số Chẵn</string>
+    <string name="odd">Số Lẻ</string>
+    <string name="square">Số Chính Phương</string>
+    <string name="show">Show</string>
+</resources>
